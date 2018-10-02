@@ -4,7 +4,7 @@
 
 ![banner](https://user-images.githubusercontent.com/20029287/46324719-881b4680-c612-11e8-92b6-5bb5882b2abd.jpg)
 
-# Capstone Project Stage 1 :- Hostel Mate
+# Capstone Project Stage 1 :- Hostel Mate (design only)
 
 ## Project Overview
 In the Capstone project, you will build an app of your own design in two stages. In Stage 1, you will design and plan the app, using a template that we provide in the "Instructions" node.
